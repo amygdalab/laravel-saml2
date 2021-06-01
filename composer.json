@@ -18,7 +18,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/dayanstef/php-saml"
+            "url": "https://github.com/amygdalab/php-saml"
         }
     ],
     "require": {
